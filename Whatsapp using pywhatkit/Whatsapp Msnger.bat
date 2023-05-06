@@ -1,0 +1,1 @@
+"C:\Python311\python.exe" "D:\GOPAL DATA\codes\Bkchodi\Whatsapp.py" pause
